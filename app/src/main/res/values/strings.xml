@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aweb</string>
+    <string name="web_view">Web View</string>
+    <string name="forward">→</string>
+    <string name="back">←</string>
+    <string name="update">Actualizar</string>
+    <string name="home">Inicio</string>
+    <string name="history">Historial</string>
+    <string name="link">Vinculo</string>
+    <string name="open_extern">Abrir en otra app</string>
+</resources>
